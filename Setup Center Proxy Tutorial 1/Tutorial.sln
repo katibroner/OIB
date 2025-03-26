@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{5D723481-69F5-4A55-B191-B41DF21CE17F}") = "Setup Center Proxy Tutorial 1", "Setup Center Proxy Tutorial 1.csproj", "{8105EA08-4F16-4A38-868E-6F2A20A117C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B05F6A2-A7C6-40BE-ACCE-4F938E7DEAC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B05F6A2-A7C6-40BE-ACCE-4F938E7DEAC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B05F6A2-A7C6-40BE-ACCE-4F938E7DEAC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B05F6A2-A7C6-40BE-ACCE-4F938E7DEAC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

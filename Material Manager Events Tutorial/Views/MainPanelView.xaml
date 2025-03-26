@@ -1,0 +1,102 @@
+﻿<Window x:Class="MaterialManagerEventsTutorial.Views.MainPanelView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+
+             Height="700" Width="1200" 
+             Title="MaterialManagerEventsTutorial" 
+             Icon="../Images/testing_view.ico"
+             Closing="MainPanelView_OnClosing"
+    >
+
+    <DockPanel LastChildFill="True"
+               VerticalAlignment="Stretch"
+               HorizontalAlignment="Stretch">
+
+        <!-- add an AdornerLayer to use waiter -->
+        <AdornerDecorator>
+
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition />
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition />
+                        <RowDefinition />
+                        <RowDefinition />
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Text="OIB Host" Grid.Row="0" Grid.Column="0" Margin="5"/>
+                    <TextBox Grid.Row="0" Grid.Column="1" Text="{Binding OibHost}" Margin="5"/>
+                    <TextBlock Text="OIB Port" Grid.Row="1" Grid.Column="0" Margin="5,0,5,5" Height="18" VerticalAlignment="Bottom"/>
+                    <TextBox Grid.Row="1" Grid.Column="1" Text="{Binding OibPort}" Margin="5"/>
+                </Grid>
+                <Grid Grid.Row="1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Button Grid.Row="0" Grid.Column="0" Command="{Binding ConnectCommand}" Margin="5"
+                            IsEnabled="{Binding ConnectButtonEnabled}">Connect</Button>
+                    <Button Grid.Row="0" Grid.Column="1" Command="{Binding DisconnectCommand}" Margin="5"
+                            IsEnabled="{Binding DisconnectButtonEnabled}"  Width="Auto">Disconnect</Button>
+                    <CheckBox Grid.Row="0" Grid.Column="2" Margin="5" VerticalAlignment="Center"  Width="Auto" IsChecked="{Binding UseClientAuthentication}">Use Client Authentication</CheckBox>
+                </Grid>
+                <Grid Grid.Row="2">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition />
+                        <ColumnDefinition Width="Auto"/>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Text="Filter: " Grid.Column="0" Margin="5"/>
+                    <TextBox Grid.Row="0" Grid.Column="1" Text="{Binding Filter, UpdateSourceTrigger=PropertyChanged}" Margin="5">
+                        <TextBox.InputBindings>
+                            <KeyBinding Command="{Binding FilterMessagesCommand}" Key="Return" />
+                        </TextBox.InputBindings>
+                    </TextBox>
+                    <Button Grid.Column="2" Command="{Binding FilterMessagesCommand}" Margin="5">Filter</Button>
+                </Grid>
+
+                <DataGrid Grid.Row="3"
+                        AutoGenerateColumns="False"
+                        EnableColumnVirtualization="True" 
+                        ForceCursor="True" CanUserReorderColumns="True" CanUserResizeColumns="True" CanUserResizeRows="False" CanUserSortColumns="True"
+                        AlternatingRowBackground="Gainsboro" AlternationCount="2"
+                        ItemsSource="{Binding EventDataCollectionView, IsAsync=True}" FrozenColumnCount="2" 
+                        >
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Time" Width="auto" Binding="{Binding ReceiveDateTime, Mode=OneWay}" IsReadOnly="True" />
+                        <DataGridTextColumn Header="MessageId" Width="auto" Binding="{Binding MessageId, Mode=OneWay}" IsReadOnly="True" />
+                        <DataGridTextColumn Header="Key" Width="auto" Binding="{Binding Key, Mode=OneWay}" IsReadOnly="True" />
+                        <DataGridTemplateColumn Header="Value" Width="*">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBox Text="{Binding Value, Mode=OneWay}" IsReadOnly="True"
+                                                 TextWrapping="Wrap" VerticalScrollBarVisibility="Auto">
+                                    </TextBox>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                    </DataGrid.Columns>
+                </DataGrid>
+                <Grid Grid.Row="4">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto" />
+                        <ColumnDefinition Width="Auto" />
+                    </Grid.ColumnDefinitions>
+                    <Button Grid.Column="0" Margin="5px" Command="{Binding SaveMessagesCommand}">Save...</Button>
+                    <Button Grid.Column="1" Margin="5px" Command="{Binding ClearMessagesCommand}">Clear</Button>
+                </Grid>
+            </Grid>
+
+        </AdornerDecorator>
+    </DockPanel>
+</Window>

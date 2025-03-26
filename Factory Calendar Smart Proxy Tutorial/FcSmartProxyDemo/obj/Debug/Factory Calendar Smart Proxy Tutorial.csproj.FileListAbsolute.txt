@@ -1,0 +1,42 @@
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Factory Calendar Smart Proxy Tutorial\FcSmartProxyDemo\bin\Debug\FcSmartProxyDemo.exe.config
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Factory Calendar Smart Proxy Tutorial\FcSmartProxyDemo\bin\Debug\FcSmartProxyDemo.exe
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Factory Calendar Smart Proxy Tutorial\FcSmartProxyDemo\bin\Debug\FcSmartProxyDemo.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Factory Calendar Smart Proxy Tutorial\FcSmartProxyDemo\bin\Debug\Asm.As.Controls.WinForms.CalendarMonthControlLibrary.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Factory Calendar Smart Proxy Tutorial\FcSmartProxyDemo\bin\Debug\ASM.AS.OIB.Common.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Factory Calendar Smart Proxy Tutorial\FcSmartProxyDemo\bin\Debug\ASM.AS.OIB.Common.Proxy.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Factory Calendar Smart Proxy Tutorial\FcSmartProxyDemo\bin\Debug\ASM.AS.OIB.ConfigurationManager.Contracts.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Factory Calendar Smart Proxy Tutorial\FcSmartProxyDemo\bin\Debug\ASM.AS.OIB.ConfigurationManager.Proxy.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Factory Calendar Smart Proxy Tutorial\FcSmartProxyDemo\bin\Debug\ASM.AS.OIB.FactoryCalendar.Proxy.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Factory Calendar Smart Proxy Tutorial\FcSmartProxyDemo\bin\Debug\ASM.AS.OIB.UserManagement.Proxy.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Factory Calendar Smart Proxy Tutorial\FcSmartProxyDemo\bin\Debug\ASM.AS.OIB.WS.Eventing.Contracts.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Factory Calendar Smart Proxy Tutorial\FcSmartProxyDemo\bin\Debug\ASM.AS.OIB.ServiceLocator.Contracts.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Factory Calendar Smart Proxy Tutorial\FcSmartProxyDemo\bin\Debug\ASM.AS.OIB.UserManagement.Common.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Factory Calendar Smart Proxy Tutorial\FcSmartProxyDemo\bin\Debug\ASM.AS.OIB.WS.Common.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Factory Calendar Smart Proxy Tutorial\FcSmartProxyDemo\bin\Debug\ASM.AS.OIB.Common.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Factory Calendar Smart Proxy Tutorial\FcSmartProxyDemo\bin\Debug\ASM.AS.OIB.Common.Proxy.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Factory Calendar Smart Proxy Tutorial\FcSmartProxyDemo\bin\Debug\ASM.AS.OIB.ConfigurationManager.Contracts.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Factory Calendar Smart Proxy Tutorial\FcSmartProxyDemo\bin\Debug\ASM.AS.OIB.ConfigurationManager.Contracts.xml
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Factory Calendar Smart Proxy Tutorial\FcSmartProxyDemo\bin\Debug\ASM.AS.OIB.ConfigurationManager.Proxy.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Factory Calendar Smart Proxy Tutorial\FcSmartProxyDemo\bin\Debug\ASM.AS.OIB.ConfigurationManager.Proxy.xml
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Factory Calendar Smart Proxy Tutorial\FcSmartProxyDemo\bin\Debug\ASM.AS.OIB.FactoryCalendar.Proxy.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Factory Calendar Smart Proxy Tutorial\FcSmartProxyDemo\bin\Debug\ASM.AS.OIB.FactoryCalendar.Proxy.xml
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Factory Calendar Smart Proxy Tutorial\FcSmartProxyDemo\bin\Debug\ASM.AS.OIB.UserManagement.Proxy.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Factory Calendar Smart Proxy Tutorial\FcSmartProxyDemo\bin\Debug\ASM.AS.OIB.UserManagement.Proxy.xml
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Factory Calendar Smart Proxy Tutorial\FcSmartProxyDemo\bin\Debug\ASM.AS.OIB.WS.Eventing.Contracts.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Factory Calendar Smart Proxy Tutorial\FcSmartProxyDemo\bin\Debug\ASM.AS.OIB.WS.Eventing.Contracts.xml
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Factory Calendar Smart Proxy Tutorial\FcSmartProxyDemo\bin\Debug\ASM.AS.OIB.ServiceLocator.Contracts.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Factory Calendar Smart Proxy Tutorial\FcSmartProxyDemo\bin\Debug\ASM.AS.OIB.ServiceLocator.Contracts.xml
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Factory Calendar Smart Proxy Tutorial\FcSmartProxyDemo\bin\Debug\ASM.AS.OIB.UserManagement.Common.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Factory Calendar Smart Proxy Tutorial\FcSmartProxyDemo\bin\Debug\ASM.AS.OIB.UserManagement.Common.xml
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Factory Calendar Smart Proxy Tutorial\FcSmartProxyDemo\bin\Debug\ASM.AS.OIB.WS.Common.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Factory Calendar Smart Proxy Tutorial\FcSmartProxyDemo\bin\Debug\ASM.AS.OIB.WS.Common.xml
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Factory Calendar Smart Proxy Tutorial\FcSmartProxyDemo\obj\Debug\Factory Calendar Smart Proxy Tutorial.csproj.AssemblyReference.cache
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Factory Calendar Smart Proxy Tutorial\FcSmartProxyDemo\obj\Debug\FcSmartProxyDemo.EditAppointmentForm.resources
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Factory Calendar Smart Proxy Tutorial\FcSmartProxyDemo\obj\Debug\FcSmartProxyDemo.MainForm.resources
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Factory Calendar Smart Proxy Tutorial\FcSmartProxyDemo\obj\Debug\FcSmartProxyDemo.NewAppointmentForm.resources
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Factory Calendar Smart Proxy Tutorial\FcSmartProxyDemo\obj\Debug\FcSmartProxyDemo.Properties.Resources.resources
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Factory Calendar Smart Proxy Tutorial\FcSmartProxyDemo\obj\Debug\Factory Calendar Smart Proxy Tutorial.csproj.GenerateResource.cache
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Factory Calendar Smart Proxy Tutorial\FcSmartProxyDemo\obj\Debug\Factory Calendar Smart Proxy Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Factory Calendar Smart Proxy Tutorial\FcSmartProxyDemo\obj\Debug\Factory .D9662BC7.Up2Date
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Factory Calendar Smart Proxy Tutorial\FcSmartProxyDemo\obj\Debug\FcSmartProxyDemo.exe
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Factory Calendar Smart Proxy Tutorial\FcSmartProxyDemo\obj\Debug\FcSmartProxyDemo.pdb

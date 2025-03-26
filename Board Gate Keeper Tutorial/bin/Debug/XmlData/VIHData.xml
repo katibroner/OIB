@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VirtualInkspotHandlingData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SubPanelStates>
+    <SubPanelState>
+      <PanelName>panel name 1</PanelName>
+      <Place>true</Place>
+      <Reason>place this element on board.</Reason>
+    </SubPanelState>
+    <SubPanelState>
+      <PanelName>panel name 2</PanelName>
+      <Place>false</Place>
+      <Reason>place this element on board.</Reason>
+    </SubPanelState>
+    <SubPanelState>
+      <PanelName>panel name 3</PanelName>
+      <Place>true</Place>
+      <Reason>place this element on board.</Reason>
+    </SubPanelState>
+    <SubPanelState>
+      <PanelName>panel name 4</PanelName>
+      <Place>true</Place>
+      <Reason>place this element on board.</Reason>
+    </SubPanelState>
+    <SubPanelState>
+      <PanelName>panel name 5</PanelName>
+      <Place>true</Place>
+      <Reason>place this element on board.</Reason>
+    </SubPanelState>
+  </SubPanelStates>
+</VirtualInkspotHandlingData>

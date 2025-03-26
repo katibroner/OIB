@@ -1,0 +1,28 @@
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\EngineeringDataManager API Tutorial\bin\Debug\SimpleConsoleTest.exe.config
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\EngineeringDataManager API Tutorial\bin\Debug\SimpleConsoleTest.exe
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\EngineeringDataManager API Tutorial\bin\Debug\SimpleConsoleTest.pdb
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\EngineeringDataManager API Tutorial\bin\Debug\Asm.As.EDM.API.Contracts.dll
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\EngineeringDataManager API Tutorial\bin\Debug\Asm.As.EDM.API.dll
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\EngineeringDataManager API Tutorial\bin\Debug\Asm.As.EDM.API.pdb
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\EngineeringDataManager API Tutorial\bin\Debug\Asm.As.EDM.API.xml
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\EngineeringDataManager API Tutorial\bin\Debug\Asm.As.EDM.API.Contracts.pdb
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\EngineeringDataManager API Tutorial\bin\Debug\Asm.As.EDM.API.Contracts.xml
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\EngineeringDataManager API Tutorial\obj\Debug\EngineeringDataManager API Tutorial.csproj.AssemblyReference.cache
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\EngineeringDataManager API Tutorial\obj\Debug\EngineeringDataManager API Tutorial.csproj.CoreCompileInputs.cache
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\EngineeringDataManager API Tutorial\obj\Debug\EngineeringDataManager API Tutorial.csproj.CopyComplete
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\EngineeringDataManager API Tutorial\obj\Debug\SimpleConsoleTest.exe
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\EngineeringDataManager API Tutorial\obj\Debug\SimpleConsoleTest.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\EngineeringDataManager API Tutorial\bin\Debug\SimpleConsoleTest.exe.config
+C:\Users\migkbron\source\OIB\Samples\Tutorials\EngineeringDataManager API Tutorial\bin\Debug\SimpleConsoleTest.exe
+C:\Users\migkbron\source\OIB\Samples\Tutorials\EngineeringDataManager API Tutorial\bin\Debug\SimpleConsoleTest.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\EngineeringDataManager API Tutorial\bin\Debug\Asm.As.EDM.API.Contracts.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\EngineeringDataManager API Tutorial\bin\Debug\Asm.As.EDM.API.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\EngineeringDataManager API Tutorial\bin\Debug\Asm.As.EDM.API.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\EngineeringDataManager API Tutorial\bin\Debug\Asm.As.EDM.API.xml
+C:\Users\migkbron\source\OIB\Samples\Tutorials\EngineeringDataManager API Tutorial\bin\Debug\Asm.As.EDM.API.Contracts.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\EngineeringDataManager API Tutorial\bin\Debug\Asm.As.EDM.API.Contracts.xml
+C:\Users\migkbron\source\OIB\Samples\Tutorials\EngineeringDataManager API Tutorial\obj\Debug\EngineeringDataManager API Tutorial.csproj.AssemblyReference.cache
+C:\Users\migkbron\source\OIB\Samples\Tutorials\EngineeringDataManager API Tutorial\obj\Debug\EngineeringDataManager API Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\migkbron\source\OIB\Samples\Tutorials\EngineeringDataManager API Tutorial\obj\Debug\Engineer.F84ABF11.Up2Date
+C:\Users\migkbron\source\OIB\Samples\Tutorials\EngineeringDataManager API Tutorial\obj\Debug\SimpleConsoleTest.exe
+C:\Users\migkbron\source\OIB\Samples\Tutorials\EngineeringDataManager API Tutorial\obj\Debug\SimpleConsoleTest.pdb

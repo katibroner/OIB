@@ -1,0 +1,18 @@
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\OibTutorial.Common\bin\Debug\OibTutorial.Common.dll
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\OibTutorial.Common\bin\Debug\OibTutorial.Common.pdb
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\OibTutorial.Common\obj\Debug\OibTutorial.Common.csproj.AssemblyReference.cache
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\OibTutorial.Common\obj\Debug\OIB.Tutorial.Common.Logging.DetailedMessageForm.resources
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\OibTutorial.Common\obj\Debug\OIB.Tutorial.Common.Logging.LoggerListView.resources
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\OibTutorial.Common\obj\Debug\OibTutorial.Common.csproj.GenerateResource.cache
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\OibTutorial.Common\obj\Debug\OibTutorial.Common.csproj.CoreCompileInputs.cache
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\OibTutorial.Common\obj\Debug\OibTutorial.Common.dll
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\OibTutorial.Common\obj\Debug\OibTutorial.Common.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\OibTutorial.Common\bin\Debug\OibTutorial.Common.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\OibTutorial.Common\bin\Debug\OibTutorial.Common.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\OibTutorial.Common\obj\Debug\OibTutorial.Common.csproj.AssemblyReference.cache
+C:\Users\migkbron\source\OIB\Samples\Tutorials\OibTutorial.Common\obj\Debug\OIB.Tutorial.Common.Logging.DetailedMessageForm.resources
+C:\Users\migkbron\source\OIB\Samples\Tutorials\OibTutorial.Common\obj\Debug\OIB.Tutorial.Common.Logging.LoggerListView.resources
+C:\Users\migkbron\source\OIB\Samples\Tutorials\OibTutorial.Common\obj\Debug\OibTutorial.Common.csproj.GenerateResource.cache
+C:\Users\migkbron\source\OIB\Samples\Tutorials\OibTutorial.Common\obj\Debug\OibTutorial.Common.csproj.CoreCompileInputs.cache
+C:\Users\migkbron\source\OIB\Samples\Tutorials\OibTutorial.Common\obj\Debug\OibTutorial.Common.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\OibTutorial.Common\obj\Debug\OibTutorial.Common.pdb

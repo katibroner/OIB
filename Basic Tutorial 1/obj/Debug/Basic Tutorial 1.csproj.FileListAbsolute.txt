@@ -1,0 +1,10 @@
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Basic Tutorial 1\bin\Debug\OIB Simple Production Execution System.exe.config
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Basic Tutorial 1\bin\Debug\OIB Simple Production Execution System.exe
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Basic Tutorial 1\bin\Debug\OIB Simple Production Execution System.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Basic Tutorial 1\obj\Debug\Basic Tutorial 1.csproj.AssemblyReference.cache
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Basic Tutorial 1\obj\Debug\OIB.Tutorial.MainForm.resources
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Basic Tutorial 1\obj\Debug\OIB_Simple_Production_Execution_System.Properties.Resources.resources
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Basic Tutorial 1\obj\Debug\Basic Tutorial 1.csproj.GenerateResource.cache
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Basic Tutorial 1\obj\Debug\Basic Tutorial 1.csproj.CoreCompileInputs.cache
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Basic Tutorial 1\obj\Debug\OIB Simple Production Execution System.exe
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Basic Tutorial 1\obj\Debug\OIB Simple Production Execution System.pdb

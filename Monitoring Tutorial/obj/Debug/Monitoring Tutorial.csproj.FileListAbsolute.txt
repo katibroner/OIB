@@ -1,0 +1,47 @@
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Monitoring Tutorial\bin\Debug\Monitoring Tutorial.exe.config
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Monitoring Tutorial\bin\Debug\Monitoring Tutorial.exe
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Monitoring Tutorial\bin\Debug\Monitoring Tutorial.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Monitoring Tutorial\bin\Debug\Asm.As.Oib.Common.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Monitoring Tutorial\bin\Debug\Asm.As.Oib.Common.Proxy.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Monitoring Tutorial\bin\Debug\Asm.As.Oib.Monitoring.Contracts.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Monitoring Tutorial\bin\Debug\Asm.As.Oib.Monitoring.Proxy.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Monitoring Tutorial\bin\Debug\Asm.As.Oib.WS.Common.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Monitoring Tutorial\bin\Debug\Asm.As.Oib.WS.Eventing.Contracts.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Monitoring Tutorial\bin\Debug\ASM.AS.OIB.UserManagement.Proxy.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Monitoring Tutorial\bin\Debug\ASM.AS.OIB.UserManagement.Common.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Monitoring Tutorial\bin\Debug\Asm.As.Oib.Common.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Monitoring Tutorial\bin\Debug\Asm.As.Oib.Common.Proxy.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Monitoring Tutorial\bin\Debug\Asm.As.Oib.Monitoring.Contracts.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Monitoring Tutorial\bin\Debug\Asm.As.Oib.Monitoring.Contracts.xml
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Monitoring Tutorial\bin\Debug\Asm.As.Oib.Monitoring.Proxy.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Monitoring Tutorial\bin\Debug\Asm.As.Oib.Monitoring.Proxy.xml
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Monitoring Tutorial\bin\Debug\Asm.As.Oib.WS.Common.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Monitoring Tutorial\bin\Debug\Asm.As.Oib.WS.Common.xml
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Monitoring Tutorial\bin\Debug\Asm.As.Oib.WS.Eventing.Contracts.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Monitoring Tutorial\bin\Debug\Asm.As.Oib.WS.Eventing.Contracts.xml
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Monitoring Tutorial\bin\Debug\ASM.AS.OIB.UserManagement.Proxy.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Monitoring Tutorial\bin\Debug\ASM.AS.OIB.UserManagement.Proxy.xml
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Monitoring Tutorial\bin\Debug\ASM.AS.OIB.UserManagement.Common.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Monitoring Tutorial\bin\Debug\ASM.AS.OIB.UserManagement.Common.xml
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Monitoring Tutorial\bin\Debug\cs\Asm.As.Oib.Monitoring.Proxy.resources.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Monitoring Tutorial\bin\Debug\de\Asm.As.Oib.Monitoring.Proxy.resources.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Monitoring Tutorial\bin\Debug\es-MX\Asm.As.Oib.Monitoring.Proxy.resources.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Monitoring Tutorial\bin\Debug\et\Asm.As.Oib.Monitoring.Proxy.resources.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Monitoring Tutorial\bin\Debug\fr\Asm.As.Oib.Monitoring.Proxy.resources.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Monitoring Tutorial\bin\Debug\hu\Asm.As.Oib.Monitoring.Proxy.resources.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Monitoring Tutorial\bin\Debug\it\Asm.As.Oib.Monitoring.Proxy.resources.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Monitoring Tutorial\bin\Debug\ja\Asm.As.Oib.Monitoring.Proxy.resources.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Monitoring Tutorial\bin\Debug\ko\Asm.As.Oib.Monitoring.Proxy.resources.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Monitoring Tutorial\bin\Debug\pl\Asm.As.Oib.Monitoring.Proxy.resources.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Monitoring Tutorial\bin\Debug\pt\Asm.As.Oib.Monitoring.Proxy.resources.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Monitoring Tutorial\bin\Debug\ru\Asm.As.Oib.Monitoring.Proxy.resources.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Monitoring Tutorial\bin\Debug\th\Asm.As.Oib.Monitoring.Proxy.resources.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Monitoring Tutorial\bin\Debug\zh-CHS\Asm.As.Oib.Monitoring.Proxy.resources.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Monitoring Tutorial\bin\Debug\zh-CHT\Asm.As.Oib.Monitoring.Proxy.resources.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Monitoring Tutorial\obj\Debug\Monitoring Tutorial.csproj.AssemblyReference.cache
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Monitoring Tutorial\obj\Debug\OIB.Tutorial.Form1.resources
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Monitoring Tutorial\obj\Debug\Monitoring Tutorial.csproj.GenerateResource.cache
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Monitoring Tutorial\obj\Debug\Monitoring Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Monitoring Tutorial\obj\Debug\Monitori.98EC40A7.Up2Date
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Monitoring Tutorial\obj\Debug\Monitoring Tutorial.exe
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Monitoring Tutorial\obj\Debug\Monitoring Tutorial.pdb

@@ -1,0 +1,7 @@
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Traceability Tutorial\bin\Debug\TraceOIBTutorial.exe.config
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Traceability Tutorial\bin\Debug\TraceOIBTutorial.exe
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Traceability Tutorial\bin\Debug\TraceOIBTutorial.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Traceability Tutorial\obj\Debug\Traceability Tutorial.csproj.AssemblyReference.cache
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Traceability Tutorial\obj\Debug\Traceability Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Traceability Tutorial\obj\Debug\TraceOIBTutorial.exe
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Traceability Tutorial\obj\Debug\TraceOIBTutorial.pdb

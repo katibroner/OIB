@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xsd:schema
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+  blockDefault="#all"
+  elementFormDefault="qualified"
+  attributeFormDefault="unqualified">
+
+  <xsd:element name="Map">
+    <xsd:annotation>
+      <xsd:documentation>
+        The map is the root object describing the wafer map in format SEMI G85 0703. It contains one or more devices.
+      </xsd:documentation>
+    </xsd:annotation>
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element name="Device" minOccurs="1" maxOccurs="unbounded">
+          <xsd:annotation>
+            <xsd:documentation>
+              Each element "Device" holds the data for one type of component or die on the wafer.
+            </xsd:documentation>
+          </xsd:annotation>
+          <xsd:complexType>
+            <xsd:sequence>
+        <xsd:element name="Bin" minOccurs="1" maxOccurs="unbounded">
+                <xsd:annotation>
+                  <xsd:documentation>
+                    The element "Bin" correlates bin codes to bin qualities.
+                  </xsd:documentation>
+                </xsd:annotation>
+        <xsd:complexType>
+          <xsd:sequence>
+          </xsd:sequence>
+          <xsd:attribute name="BinCode" type="xsd:string">
+                    <xsd:annotation>
+                      <xsd:documentation>
+                        The bin code. May be one or more numbers or letters.
+                      </xsd:documentation>
+                    </xsd:annotation>
+            </xsd:attribute>
+          <xsd:attribute name="BinQuality" type="xsd:string">
+                    <xsd:annotation>
+                      <xsd:documentation>
+                        The bin quality assigned to the bin code. Currently the bin qualities "Pass" and "Fail" are supported.
+                      </xsd:documentation>
+                    </xsd:annotation>
+            </xsd:attribute>
+        </xsd:complexType>
+        </xsd:element>
+              <xsd:element name="Data" minOccurs="1" maxOccurs="1">
+                <xsd:annotation>
+                  <xsd:documentation>
+                    The element "Data" contains the bin codes for the wafer map as a sequence of data rows.
+                  </xsd:documentation>
+                </xsd:annotation>
+                <xsd:complexType>
+                  <xsd:sequence>
+                    <xsd:element name="Row" type="xsd:string" minOccurs="1" maxOccurs="unbounded">
+                      <xsd:annotation>
+                        <xsd:documentation>
+                          Each row contains the bin codes for the pickup positions in a horizontal line.
+                        </xsd:documentation>
+                      </xsd:annotation>
+                    </xsd:element>
+                  </xsd:sequence>
+                </xsd:complexType>
+              </xsd:element>
+        <xsd:element name="ReferenceDevice" minOccurs="0" maxOccurs="unbounded">
+                <xsd:annotation>
+                  <xsd:documentation>
+                    The wafer map may contain reference positions (typically placed in the corners of the wafer map). A reference position is defined by row and column number.
+                  </xsd:documentation>
+                </xsd:annotation>
+          <xsd:complexType>
+            <xsd:sequence>
+            </xsd:sequence>
+            <xsd:attribute name="ReferenceDeviceX" type="xsd:string">
+                    <xsd:annotation>
+                      <xsd:documentation>
+                        The column of the reference position. The value is null based (the minimum column is "0").
+                      </xsd:documentation>
+                    </xsd:annotation>
+            </xsd:attribute>
+            <xsd:attribute name="ReferenceDeviceY" type="xsd:string">
+                    <xsd:annotation>
+                      <xsd:documentation>
+                        The row of the reference position. The value is null based (the minimum row is "0").
+                      </xsd:documentation>
+                    </xsd:annotation>
+            </xsd:attribute>
+          </xsd:complexType>
+        </xsd:element>
+            </xsd:sequence>
+      <xsd:attribute name="BinType" type="xsd:string">
+              <xsd:annotation>
+                <xsd:documentation>
+                  The bin type. Currently only "Ascii" is supported.
+                </xsd:documentation>
+              </xsd:annotation>
+      </xsd:attribute>
+      <xsd:attribute name="NullBin" type="xsd:string">
+              <xsd:annotation>
+                <xsd:documentation>
+                  The bin code used for empty positions on the wafer. Typically the value of "0" is used.
+                </xsd:documentation>
+              </xsd:annotation>
+      </xsd:attribute>
+      <xsd:attribute name="Rows" type="xsd:string">
+              <xsd:annotation>
+                <xsd:documentation>
+                  The number of rows present in the wafer map.
+                </xsd:documentation>
+              </xsd:annotation>
+      </xsd:attribute>
+      <xsd:attribute name="Columns" type="xsd:string">
+              <xsd:annotation>
+                <xsd:documentation>
+                  The number of columns present in the wafer map.
+                </xsd:documentation>
+              </xsd:annotation>
+      </xsd:attribute>
+          </xsd:complexType>
+        </xsd:element>
+      </xsd:sequence>
+      <xsd:attribute name="SubstrateId" type="xsd:string">
+        <xsd:annotation>
+          <xsd:documentation>
+            The id of the individual wafer.
+          </xsd:documentation>
+        </xsd:annotation>
+    </xsd:attribute>
+    </xsd:complexType>
+  </xsd:element>
+</xsd:schema>

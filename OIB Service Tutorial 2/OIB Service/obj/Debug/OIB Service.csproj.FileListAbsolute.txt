@@ -1,0 +1,13 @@
+C:\Users\migkbron\source\OIB\Samples\Tutorials\OIB Service Tutorial 2\OIB Service\bin\Debug\OIB.Tutorial.Service.exe.config
+C:\Users\migkbron\source\OIB\Samples\Tutorials\OIB Service Tutorial 2\OIB Service\bin\Debug\OIB.Tutorial.Service.exe
+C:\Users\migkbron\source\OIB\Samples\Tutorials\OIB Service Tutorial 2\OIB Service\bin\Debug\OIB.Tutorial.Service.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\OIB Service Tutorial 2\OIB Service\bin\Debug\OIB.ServiceTutorial.Contract.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\OIB Service Tutorial 2\OIB Service\bin\Debug\OIB.ServiceTutorial.Contract.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\OIB Service Tutorial 2\OIB Service\obj\Debug\OIB Service.csproj.AssemblyReference.cache
+C:\Users\migkbron\source\OIB\Samples\Tutorials\OIB Service Tutorial 2\OIB Service\obj\Debug\OIB.Tutorial.Service.mainForm.resources
+C:\Users\migkbron\source\OIB\Samples\Tutorials\OIB Service Tutorial 2\OIB Service\obj\Debug\OIB.Tutorial.Service.Properties.Resources.resources
+C:\Users\migkbron\source\OIB\Samples\Tutorials\OIB Service Tutorial 2\OIB Service\obj\Debug\OIB Service.csproj.GenerateResource.cache
+C:\Users\migkbron\source\OIB\Samples\Tutorials\OIB Service Tutorial 2\OIB Service\obj\Debug\OIB Service.csproj.CoreCompileInputs.cache
+C:\Users\migkbron\source\OIB\Samples\Tutorials\OIB Service Tutorial 2\OIB Service\obj\Debug\OIB Serv.0644381A.Up2Date
+C:\Users\migkbron\source\OIB\Samples\Tutorials\OIB Service Tutorial 2\OIB Service\obj\Debug\OIB.Tutorial.Service.exe
+C:\Users\migkbron\source\OIB\Samples\Tutorials\OIB Service Tutorial 2\OIB Service\obj\Debug\OIB.Tutorial.Service.pdb

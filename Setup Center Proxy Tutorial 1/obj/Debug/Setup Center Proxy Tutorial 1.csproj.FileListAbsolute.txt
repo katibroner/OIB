@@ -1,0 +1,33 @@
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Setup Center Proxy Tutorial 1\bin\Debug\OIB Tutorial.exe.config
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Setup Center Proxy Tutorial 1\bin\Debug\OIB Tutorial.exe
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Setup Center Proxy Tutorial 1\bin\Debug\OIB Tutorial.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Setup Center Proxy Tutorial 1\bin\Debug\ASM.AS.OIB.Common.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Setup Center Proxy Tutorial 1\bin\Debug\ASM.AS.OIB.Common.Proxy.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Setup Center Proxy Tutorial 1\bin\Debug\ASM.AS.OIB.SIPLACESetupCenter.Contracts.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Setup Center Proxy Tutorial 1\bin\Debug\ASM.AS.OIB.SiplaceSetupCenter.Proxy.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Setup Center Proxy Tutorial 1\bin\Debug\ASM.AS.OIB.WS.Common.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Setup Center Proxy Tutorial 1\bin\Debug\ASM.AS.OIB.WS.Eventing.Contracts.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Setup Center Proxy Tutorial 1\bin\Debug\ASM.AS.OIB.UserManagement.Proxy.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Setup Center Proxy Tutorial 1\bin\Debug\ASM.AS.OIB.UserManagement.Common.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Setup Center Proxy Tutorial 1\bin\Debug\ASM.AS.OIB.Common.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Setup Center Proxy Tutorial 1\bin\Debug\ASM.AS.OIB.Common.Proxy.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Setup Center Proxy Tutorial 1\bin\Debug\ASM.AS.OIB.SIPLACESetupCenter.Contracts.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Setup Center Proxy Tutorial 1\bin\Debug\ASM.AS.OIB.SIPLACESetupCenter.Contracts.xml
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Setup Center Proxy Tutorial 1\bin\Debug\ASM.AS.OIB.SiplaceSetupCenter.Proxy.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Setup Center Proxy Tutorial 1\bin\Debug\ASM.AS.OIB.SiplaceSetupCenter.Proxy.xml
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Setup Center Proxy Tutorial 1\bin\Debug\ASM.AS.OIB.WS.Common.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Setup Center Proxy Tutorial 1\bin\Debug\ASM.AS.OIB.WS.Common.xml
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Setup Center Proxy Tutorial 1\bin\Debug\ASM.AS.OIB.WS.Eventing.Contracts.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Setup Center Proxy Tutorial 1\bin\Debug\ASM.AS.OIB.WS.Eventing.Contracts.xml
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Setup Center Proxy Tutorial 1\bin\Debug\ASM.AS.OIB.UserManagement.Proxy.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Setup Center Proxy Tutorial 1\bin\Debug\ASM.AS.OIB.UserManagement.Proxy.xml
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Setup Center Proxy Tutorial 1\bin\Debug\ASM.AS.OIB.UserManagement.Common.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Setup Center Proxy Tutorial 1\bin\Debug\ASM.AS.OIB.UserManagement.Common.xml
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Setup Center Proxy Tutorial 1\obj\Debug\Setup Center Proxy Tutorial 1.csproj.AssemblyReference.cache
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Setup Center Proxy Tutorial 1\obj\Debug\OIB.Tutorial.mainForm.resources
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Setup Center Proxy Tutorial 1\obj\Debug\OIB.Tutorial.Properties.Resources.resources
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Setup Center Proxy Tutorial 1\obj\Debug\Setup Center Proxy Tutorial 1.csproj.GenerateResource.cache
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Setup Center Proxy Tutorial 1\obj\Debug\Setup Center Proxy Tutorial 1.csproj.CoreCompileInputs.cache
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Setup Center Proxy Tutorial 1\obj\Debug\Setup Ce.5EA7E7CF.Up2Date
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Setup Center Proxy Tutorial 1\obj\Debug\OIB Tutorial.exe
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Setup Center Proxy Tutorial 1\obj\Debug\OIB Tutorial.pdb

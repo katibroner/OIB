@@ -1,0 +1,10 @@
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Basic Tutorial 5\bin\Debug\OIB Tutorial.exe.config
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Basic Tutorial 5\bin\Debug\OIB Tutorial.exe
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Basic Tutorial 5\bin\Debug\OIB Tutorial.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Basic Tutorial 5\obj\Debug\Basic Tutorial 5.csproj.AssemblyReference.cache
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Basic Tutorial 5\obj\Debug\OIB.Tutorial.mainForm.resources
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Basic Tutorial 5\obj\Debug\OIB.Tutorial.Properties.Resources.resources
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Basic Tutorial 5\obj\Debug\Basic Tutorial 5.csproj.GenerateResource.cache
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Basic Tutorial 5\obj\Debug\Basic Tutorial 5.csproj.CoreCompileInputs.cache
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Basic Tutorial 5\obj\Debug\OIB Tutorial.exe
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Basic Tutorial 5\obj\Debug\OIB Tutorial.pdb

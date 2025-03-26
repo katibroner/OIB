@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Components>
+    <Component>
+        <Name>Component1</Name>
+        <Barcode>040822</Barcode>
+        <VerificationStatus>1</VerificationStatus>
+    </Component>
+    <Component>
+        <Name>Component2</Name>
+        <Barcode>050822</Barcode>
+        <VerificationStatus>2</VerificationStatus>
+    </Component>
+</Components>

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Setup Center Tutorial 2", "Setup Center Tutorial 2.csproj", "{F62908B0-9C14-4549-A877-0BEB83EB92D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F62908B0-9C14-4549-A877-0BEB83EB92D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F62908B0-9C14-4549-A877-0BEB83EB92D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F62908B0-9C14-4549-A877-0BEB83EB92D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F62908B0-9C14-4549-A877-0BEB83EB92D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

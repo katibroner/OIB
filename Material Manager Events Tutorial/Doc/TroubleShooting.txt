@@ -1,0 +1,10 @@
+﻿1. Debugging application. Exception on "Connect".
+
+Exception:
+Type = System.ApplicationException
+Source = "ASM.AS.OIB.Common.Proxy"
+InnerException = {"The service endpoint failed to listen on the URI 'net.tcp://hostName:54561/SiMMTestClient' because access was denied.  Verify that the current user is granted access in the appropriate allowAccounts section of SMSvcHost.exe.config."}
+Message = "Callback host could not be started: The service endpoint failed to listen on the URI 'net.tcp://hostName:54561/SiMMTestClient' because access was denied.  Verify that the current user is granted access in the appropriate allowAccounts section of SMSvcHost...
+
+Solution:
+run Visual Studio as Administrator

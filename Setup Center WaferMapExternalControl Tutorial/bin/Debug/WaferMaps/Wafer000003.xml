@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Map SubstrateId="BeispielMap#3">
+  <Device BinType="Ascii" NullBin="0" Rows="10" Columns="10">
+    <Bin BinCode="1" BinQuality="Pass" />
+    <Bin BinCode="6" BinQuality="Fail" />
+    <Data>
+      <Row><![CDATA[9001111009]]></Row>
+      <Row><![CDATA[0111111110]]></Row>
+      <Row><![CDATA[0116116110]]></Row>
+      <Row><![CDATA[1111111111]]></Row>
+      <Row><![CDATA[1116111611]]></Row>
+      <Row><![CDATA[1111111111]]></Row>
+      <Row><![CDATA[1111111111]]></Row>
+      <Row><![CDATA[0111111110]]></Row>
+      <Row><![CDATA[0111161110]]></Row>
+      <Row><![CDATA[9001111009]]></Row>
+    </Data>
+    <ReferenceDevice ReferenceDeviceX="0" ReferenceDeviceY="0" />
+    <ReferenceDevice ReferenceDeviceX="9" ReferenceDeviceY="0" />
+    <ReferenceDevice ReferenceDeviceX="0" ReferenceDeviceY="9" />
+    <ReferenceDevice ReferenceDeviceX="9" ReferenceDeviceY="9" />
+  </Device>
+</Map>

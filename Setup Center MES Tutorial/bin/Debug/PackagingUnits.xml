@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="yes"?>
+<PackagingUnits>
+  <PackagingUnit>
+    <PackagingUnitId>00000000</PackagingUnitId>
+    <ComponentName>BE0</ComponentName>
+    <ComponentBarcode></ComponentBarcode>
+    <OriginalQuantity>5000</OriginalQuantity>
+    <Quantity>1500</Quantity>
+    <Manufacturer></Manufacturer>
+    <ManufactureDate>01.01.2013</ManufactureDate>
+    <ExpiryDate>01.01.2020</ExpiryDate>
+    <Supplier></Supplier>
+    <MsdLevel>1</MsdLevel>
+    <MsdOpenDate>01.01.2013</MsdOpenDate>
+    <Extra1></Extra1>
+    <Extra2></Extra2>
+    <Extra3></Extra3>
+    <Serial></Serial>
+    <ManufacturerPartNumber></ManufacturerPartNumber>
+    <OrderingCode></OrderingCode>
+    <ManufacturerLocation></ManufacturerLocation>
+    <RevisionLevel></RevisionLevel>
+    <AdditionalPartInformation></AdditionalPartInformation>
+    <RoHS>1</RoHS>
+    <BatchId></BatchId>
+    <Batch2></Batch2>
+    <PurchaseOrderNumber></PurchaseOrderNumber>
+    <ShippingNoteNumber></ShippingNoteNumber>
+    <SupplierData></SupplierData>
+    <BrightnessClass></BrightnessClass>
+    <Comment></Comment>
+    <GreyZone>0</GreyZone>
+    <LastProductionDate>01.01.2013</LastProductionDate>
+  </PackagingUnit>
+</PackagingUnits>

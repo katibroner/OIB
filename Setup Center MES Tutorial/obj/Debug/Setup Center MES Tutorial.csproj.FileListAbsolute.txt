@@ -1,0 +1,15 @@
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Setup Center MES Tutorial\bin\Debug\Setup Center MES Tutorial.exe.config
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Setup Center MES Tutorial\bin\Debug\Setup Center MES Tutorial.exe
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Setup Center MES Tutorial\bin\Debug\Setup Center MES Tutorial.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Setup Center MES Tutorial\bin\Debug\OibTutorial.Common.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Setup Center MES Tutorial\bin\Debug\OibTutorial.Common.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Setup Center MES Tutorial\obj\Debug\Setup Center MES Tutorial.csproj.AssemblyReference.cache
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Setup Center MES Tutorial\obj\Debug\OIB.Tutorial.AvailablePackagingUnitsForm.resources
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Setup Center MES Tutorial\obj\Debug\OIB.Tutorial.ComponentStatusForm.resources
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Setup Center MES Tutorial\obj\Debug\OIB.Tutorial.MainForm.resources
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Setup Center MES Tutorial\obj\Debug\OIB.Tutorial.Properties.Resources.resources
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Setup Center MES Tutorial\obj\Debug\Setup Center MES Tutorial.csproj.GenerateResource.cache
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Setup Center MES Tutorial\obj\Debug\Setup Center MES Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Setup Center MES Tutorial\obj\Debug\Setup Ce.10E72C38.Up2Date
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Setup Center MES Tutorial\obj\Debug\Setup Center MES Tutorial.exe
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Setup Center MES Tutorial\obj\Debug\Setup Center MES Tutorial.pdb

@@ -1,0 +1,53 @@
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\SIPLACE Pro Tutorial 1\bin\Debug\OIB.Tutorial.exe.config
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\SIPLACE Pro Tutorial 1\bin\Debug\OIB.Tutorial.exe
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\SIPLACE Pro Tutorial 1\bin\Debug\OIB.Tutorial.pdb
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\SIPLACE Pro Tutorial 1\bin\Debug\Asm.As.Oib.Common.dll
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\SIPLACE Pro Tutorial 1\bin\Debug\ASM.AS.OIB.Common.Proxy.dll
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\SIPLACE Pro Tutorial 1\bin\Debug\ASM.AS.OIB.SIPLACEPro.Contracts.dll
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\SIPLACE Pro Tutorial 1\bin\Debug\ASM.AS.OIB.SIPLACEPro.Proxy.dll
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\SIPLACE Pro Tutorial 1\bin\Debug\ASM.AS.OIB.UserManagement.Proxy.dll
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\SIPLACE Pro Tutorial 1\bin\Debug\ASM.AS.OIB.UserManagement.Common.dll
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\SIPLACE Pro Tutorial 1\bin\Debug\Asm.As.Oib.Common.pdb
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\SIPLACE Pro Tutorial 1\bin\Debug\ASM.AS.OIB.Common.Proxy.pdb
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\SIPLACE Pro Tutorial 1\bin\Debug\ASM.AS.OIB.SIPLACEPro.Contracts.pdb
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\SIPLACE Pro Tutorial 1\bin\Debug\ASM.AS.OIB.SIPLACEPro.Proxy.pdb
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\SIPLACE Pro Tutorial 1\bin\Debug\ASM.AS.OIB.SIPLACEPro.Proxy.xml
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\SIPLACE Pro Tutorial 1\bin\Debug\ASM.AS.OIB.UserManagement.Proxy.pdb
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\SIPLACE Pro Tutorial 1\bin\Debug\ASM.AS.OIB.UserManagement.Proxy.xml
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\SIPLACE Pro Tutorial 1\bin\Debug\ASM.AS.OIB.UserManagement.Common.pdb
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\SIPLACE Pro Tutorial 1\bin\Debug\ASM.AS.OIB.UserManagement.Common.xml
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\SIPLACE Pro Tutorial 1\obj\Debug\SIPLACE Pro Tutorial 1.csproj.AssemblyReference.cache
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\SIPLACE Pro Tutorial 1\obj\Debug\SIPLACE Pro Tutorial 1.csproj.SuggestedBindingRedirects.cache
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\SIPLACE Pro Tutorial 1\obj\Debug\OIB.Tutorial.mainForm.resources
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\SIPLACE Pro Tutorial 1\obj\Debug\OIB.Tutorial.Properties.Resources.resources
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\SIPLACE Pro Tutorial 1\obj\Debug\SIPLACE Pro Tutorial 1.csproj.GenerateResource.cache
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\SIPLACE Pro Tutorial 1\obj\Debug\SIPLACE Pro Tutorial 1.csproj.CoreCompileInputs.cache
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\SIPLACE Pro Tutorial 1\obj\Debug\SIPLACE Pro Tutorial 1.csproj.CopyComplete
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\SIPLACE Pro Tutorial 1\obj\Debug\OIB.Tutorial.exe
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\SIPLACE Pro Tutorial 1\obj\Debug\OIB.Tutorial.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Tutorial 1\bin\Debug\OIB.Tutorial.exe.config
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Tutorial 1\bin\Debug\OIB.Tutorial.exe
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Tutorial 1\bin\Debug\OIB.Tutorial.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Tutorial 1\bin\Debug\Asm.As.Oib.Common.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Tutorial 1\bin\Debug\ASM.AS.OIB.Common.Proxy.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Tutorial 1\bin\Debug\ASM.AS.OIB.SIPLACEPro.Contracts.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Tutorial 1\bin\Debug\ASM.AS.OIB.SIPLACEPro.Proxy.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Tutorial 1\bin\Debug\ASM.AS.OIB.UserManagement.Proxy.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Tutorial 1\bin\Debug\ASM.AS.OIB.UserManagement.Common.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Tutorial 1\bin\Debug\Asm.As.Oib.Common.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Tutorial 1\bin\Debug\ASM.AS.OIB.Common.Proxy.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Tutorial 1\bin\Debug\ASM.AS.OIB.SIPLACEPro.Contracts.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Tutorial 1\bin\Debug\ASM.AS.OIB.SIPLACEPro.Proxy.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Tutorial 1\bin\Debug\ASM.AS.OIB.SIPLACEPro.Proxy.xml
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Tutorial 1\bin\Debug\ASM.AS.OIB.UserManagement.Proxy.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Tutorial 1\bin\Debug\ASM.AS.OIB.UserManagement.Proxy.xml
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Tutorial 1\bin\Debug\ASM.AS.OIB.UserManagement.Common.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Tutorial 1\bin\Debug\ASM.AS.OIB.UserManagement.Common.xml
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Tutorial 1\obj\Debug\SIPLACE Pro Tutorial 1.csproj.AssemblyReference.cache
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Tutorial 1\obj\Debug\OIB.Tutorial.mainForm.resources
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Tutorial 1\obj\Debug\OIB.Tutorial.Properties.Resources.resources
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Tutorial 1\obj\Debug\SIPLACE Pro Tutorial 1.csproj.GenerateResource.cache
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Tutorial 1\obj\Debug\SIPLACE Pro Tutorial 1.csproj.CoreCompileInputs.cache
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Tutorial 1\obj\Debug\SIPLACE .8C26A1EC.Up2Date
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Tutorial 1\obj\Debug\OIB.Tutorial.exe
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Tutorial 1\obj\Debug\OIB.Tutorial.pdb

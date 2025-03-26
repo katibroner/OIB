@@ -1,0 +1,10 @@
+C:\Users\migkbron\source\OIB\Samples\Tutorials\TraceabilitySyncInterfaceTutorial\bin\Debug\TraceabilitySyncInterfaceTutorial.exe.config
+C:\Users\migkbron\source\OIB\Samples\Tutorials\TraceabilitySyncInterfaceTutorial\bin\Debug\TraceabilitySyncInterfaceTutorial.exe
+C:\Users\migkbron\source\OIB\Samples\Tutorials\TraceabilitySyncInterfaceTutorial\bin\Debug\TraceabilitySyncInterfaceTutorial.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\TraceabilitySyncInterfaceTutorial\obj\Debug\TraceabilitySyncInterfaceTutorial.csproj.AssemblyReference.cache
+C:\Users\migkbron\source\OIB\Samples\Tutorials\TraceabilitySyncInterfaceTutorial\obj\Debug\TraceabilitySyncInterfaceTutorial.MainForm.resources
+C:\Users\migkbron\source\OIB\Samples\Tutorials\TraceabilitySyncInterfaceTutorial\obj\Debug\TraceabilitySyncInterfaceTutorial.Properties.Resources.resources
+C:\Users\migkbron\source\OIB\Samples\Tutorials\TraceabilitySyncInterfaceTutorial\obj\Debug\TraceabilitySyncInterfaceTutorial.csproj.GenerateResource.cache
+C:\Users\migkbron\source\OIB\Samples\Tutorials\TraceabilitySyncInterfaceTutorial\obj\Debug\TraceabilitySyncInterfaceTutorial.csproj.CoreCompileInputs.cache
+C:\Users\migkbron\source\OIB\Samples\Tutorials\TraceabilitySyncInterfaceTutorial\obj\Debug\TraceabilitySyncInterfaceTutorial.exe
+C:\Users\migkbron\source\OIB\Samples\Tutorials\TraceabilitySyncInterfaceTutorial\obj\Debug\TraceabilitySyncInterfaceTutorial.pdb

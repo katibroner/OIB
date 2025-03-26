@@ -1,0 +1,15 @@
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\ProcessData Tutorial\bin\Debug\ProcessDataTutorial.exe.config
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\ProcessData Tutorial\bin\Debug\ProcessDataTutorial.exe
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\ProcessData Tutorial\bin\Debug\ProcessDataTutorial.pdb
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\ProcessData Tutorial\obj\Debug\ProcessData Tutorial.csproj.AssemblyReference.cache
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\ProcessData Tutorial\obj\Debug\ProcessData Tutorial.csproj.SuggestedBindingRedirects.cache
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\ProcessData Tutorial\obj\Debug\ProcessData Tutorial.csproj.CoreCompileInputs.cache
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\ProcessData Tutorial\obj\Debug\ProcessDataTutorial.exe
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\ProcessData Tutorial\obj\Debug\ProcessDataTutorial.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\ProcessData Tutorial\bin\Debug\ProcessDataTutorial.exe.config
+C:\Users\migkbron\source\OIB\Samples\Tutorials\ProcessData Tutorial\bin\Debug\ProcessDataTutorial.exe
+C:\Users\migkbron\source\OIB\Samples\Tutorials\ProcessData Tutorial\bin\Debug\ProcessDataTutorial.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\ProcessData Tutorial\obj\Debug\ProcessData Tutorial.csproj.AssemblyReference.cache
+C:\Users\migkbron\source\OIB\Samples\Tutorials\ProcessData Tutorial\obj\Debug\ProcessData Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\migkbron\source\OIB\Samples\Tutorials\ProcessData Tutorial\obj\Debug\ProcessDataTutorial.exe
+C:\Users\migkbron\source\OIB\Samples\Tutorials\ProcessData Tutorial\obj\Debug\ProcessDataTutorial.pdb

@@ -1,0 +1,6 @@
+C:\Users\migkbron\source\OIB\Samples\Tutorials\OIB Service Tutorial 2\OIB Service Contract\bin\Debug\OIB.ServiceTutorial.Contract.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\OIB Service Tutorial 2\OIB Service Contract\bin\Debug\OIB.ServiceTutorial.Contract.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\OIB Service Tutorial 2\OIB Service Contract\obj\Debug\OIB Service Contract.csproj.AssemblyReference.cache
+C:\Users\migkbron\source\OIB\Samples\Tutorials\OIB Service Tutorial 2\OIB Service Contract\obj\Debug\OIB Service Contract.csproj.CoreCompileInputs.cache
+C:\Users\migkbron\source\OIB\Samples\Tutorials\OIB Service Tutorial 2\OIB Service Contract\obj\Debug\OIB.ServiceTutorial.Contract.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\OIB Service Tutorial 2\OIB Service Contract\obj\Debug\OIB.ServiceTutorial.Contract.pdb

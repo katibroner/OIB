@@ -1,0 +1,97 @@
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\MaintenanceDataTutorial.exe.config
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\MaintenanceDataTutorial.exe
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\MaintenanceDataTutorial.pdb
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\ASM.AS.OIB.Common.Proxy.dll
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\ASM.AS.OIB.Monitoring.Proxy.dll
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\ASM.AS.OIB.Common.dll
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\ASM.AS.OIB.Monitoring.Contracts.dll
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\ASM.AS.OIB.WS.Eventing.Contracts.dll
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\ASM.AS.OIB.UserManagement.Proxy.dll
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\ASM.AS.OIB.WS.Common.dll
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\ASM.AS.OIB.UserManagement.Common.dll
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\ASM.AS.OIB.Common.Proxy.pdb
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\ASM.AS.OIB.Monitoring.Proxy.pdb
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\ASM.AS.OIB.Monitoring.Proxy.xml
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\ASM.AS.OIB.Common.pdb
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\ASM.AS.OIB.Monitoring.Contracts.pdb
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\ASM.AS.OIB.Monitoring.Contracts.xml
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\ASM.AS.OIB.WS.Eventing.Contracts.pdb
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\ASM.AS.OIB.WS.Eventing.Contracts.xml
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\ASM.AS.OIB.UserManagement.Proxy.pdb
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\ASM.AS.OIB.UserManagement.Proxy.xml
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\ASM.AS.OIB.WS.Common.pdb
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\ASM.AS.OIB.WS.Common.xml
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\ASM.AS.OIB.UserManagement.Common.pdb
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\ASM.AS.OIB.UserManagement.Common.xml
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\cs\ASM.AS.OIB.Monitoring.Proxy.resources.dll
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\de\ASM.AS.OIB.Monitoring.Proxy.resources.dll
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\es-MX\ASM.AS.OIB.Monitoring.Proxy.resources.dll
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\et\ASM.AS.OIB.Monitoring.Proxy.resources.dll
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\fr\ASM.AS.OIB.Monitoring.Proxy.resources.dll
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\hu\ASM.AS.OIB.Monitoring.Proxy.resources.dll
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\it\ASM.AS.OIB.Monitoring.Proxy.resources.dll
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\ja\ASM.AS.OIB.Monitoring.Proxy.resources.dll
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\ko\ASM.AS.OIB.Monitoring.Proxy.resources.dll
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\pl\ASM.AS.OIB.Monitoring.Proxy.resources.dll
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\pt\ASM.AS.OIB.Monitoring.Proxy.resources.dll
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\ru\ASM.AS.OIB.Monitoring.Proxy.resources.dll
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\th\ASM.AS.OIB.Monitoring.Proxy.resources.dll
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\zh-CHS\ASM.AS.OIB.Monitoring.Proxy.resources.dll
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\zh-CHT\ASM.AS.OIB.Monitoring.Proxy.resources.dll
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\Maintenance Data Interface Tutorial\obj\Debug\Maintenance Data Interface Tutorial.csproj.AssemblyReference.cache
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\Maintenance Data Interface Tutorial\obj\Debug\MaintenanceDataTutorial.MainForm.resources
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\Maintenance Data Interface Tutorial\obj\Debug\Maintenance Data Interface Tutorial.csproj.GenerateResource.cache
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\Maintenance Data Interface Tutorial\obj\Debug\Maintenance Data Interface Tutorial.csproj.CoreCompileInputs.cache
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\Maintenance Data Interface Tutorial\obj\Debug\Maintenance Data Interface Tutorial.csproj.CopyComplete
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\Maintenance Data Interface Tutorial\obj\Debug\MaintenanceDataTutorial.exe
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\Maintenance Data Interface Tutorial\obj\Debug\MaintenanceDataTutorial.pdb
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\Maintenance Data Interface Tutorial\obj\Debug\Maintenance Data Interface Tutorial.csproj.SuggestedBindingRedirects.cache
+C:\Program Files\ASMPT\WORKS Operations Information Broker SDK 6.4\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\ASM.AS.OIB.SIPLACEPro.Proxy.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\MaintenanceDataTutorial.exe.config
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\MaintenanceDataTutorial.exe
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\MaintenanceDataTutorial.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\ASM.AS.OIB.Common.Proxy.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\ASM.AS.OIB.Monitoring.Proxy.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\ASM.AS.OIB.SIPLACEPro.Proxy.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\ASM.AS.OIB.Common.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\ASM.AS.OIB.Monitoring.Contracts.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\ASM.AS.OIB.WS.Eventing.Contracts.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\ASM.AS.OIB.UserManagement.Proxy.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\ASM.AS.OIB.WS.Common.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\ASM.AS.OIB.UserManagement.Common.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\ASM.AS.OIB.Common.Proxy.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\ASM.AS.OIB.Monitoring.Proxy.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\ASM.AS.OIB.Monitoring.Proxy.xml
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\ASM.AS.OIB.Common.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\ASM.AS.OIB.Monitoring.Contracts.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\ASM.AS.OIB.Monitoring.Contracts.xml
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\ASM.AS.OIB.WS.Eventing.Contracts.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\ASM.AS.OIB.WS.Eventing.Contracts.xml
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\ASM.AS.OIB.UserManagement.Proxy.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\ASM.AS.OIB.UserManagement.Proxy.xml
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\ASM.AS.OIB.WS.Common.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\ASM.AS.OIB.WS.Common.xml
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\ASM.AS.OIB.UserManagement.Common.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\ASM.AS.OIB.UserManagement.Common.xml
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\cs\ASM.AS.OIB.Monitoring.Proxy.resources.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\de\ASM.AS.OIB.Monitoring.Proxy.resources.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\es-MX\ASM.AS.OIB.Monitoring.Proxy.resources.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\et\ASM.AS.OIB.Monitoring.Proxy.resources.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\fr\ASM.AS.OIB.Monitoring.Proxy.resources.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\hu\ASM.AS.OIB.Monitoring.Proxy.resources.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\it\ASM.AS.OIB.Monitoring.Proxy.resources.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\ja\ASM.AS.OIB.Monitoring.Proxy.resources.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\ko\ASM.AS.OIB.Monitoring.Proxy.resources.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\pl\ASM.AS.OIB.Monitoring.Proxy.resources.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\pt\ASM.AS.OIB.Monitoring.Proxy.resources.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\ru\ASM.AS.OIB.Monitoring.Proxy.resources.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\th\ASM.AS.OIB.Monitoring.Proxy.resources.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\zh-CHS\ASM.AS.OIB.Monitoring.Proxy.resources.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Maintenance Data Interface Tutorial\bin\Debug\zh-CHT\ASM.AS.OIB.Monitoring.Proxy.resources.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Maintenance Data Interface Tutorial\obj\Debug\Maintenance Data Interface Tutorial.csproj.AssemblyReference.cache
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Maintenance Data Interface Tutorial\obj\Debug\MaintenanceDataTutorial.MainForm.resources
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Maintenance Data Interface Tutorial\obj\Debug\Maintenance Data Interface Tutorial.csproj.GenerateResource.cache
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Maintenance Data Interface Tutorial\obj\Debug\Maintenance Data Interface Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Maintenance Data Interface Tutorial\obj\Debug\Maintena.46CD87BB.Up2Date
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Maintenance Data Interface Tutorial\obj\Debug\MaintenanceDataTutorial.exe
+C:\Users\migkbron\source\OIB\Samples\Tutorials\Maintenance Data Interface Tutorial\obj\Debug\MaintenanceDataTutorial.pdb

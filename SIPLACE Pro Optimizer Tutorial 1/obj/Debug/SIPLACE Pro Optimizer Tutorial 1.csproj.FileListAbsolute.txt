@@ -1,0 +1,43 @@
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Optimizer Tutorial 1\bin\Debug\OIB Tutorial.exe.config
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Optimizer Tutorial 1\bin\Debug\OIB Tutorial.exe
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Optimizer Tutorial 1\bin\Debug\OIB Tutorial.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Optimizer Tutorial 1\bin\Debug\Asm.As.Oib.Common.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Optimizer Tutorial 1\bin\Debug\ASM.AS.OIB.Common.Proxy.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Optimizer Tutorial 1\bin\Debug\ASM.AS.OIB.SIPLACEPro.Optimizer.Contracts.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Optimizer Tutorial 1\bin\Debug\ASM.AS.OIB.SIPLACEPro.Optimizer.Proxy.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Optimizer Tutorial 1\bin\Debug\ASM.AS.OIB.WS.Eventing.Contracts.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Optimizer Tutorial 1\bin\Debug\ASM.AS.OIB.UserManagement.Proxy.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Optimizer Tutorial 1\bin\Debug\ASM.AS.OIB.WS.Common.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Optimizer Tutorial 1\bin\Debug\ASM.AS.OIB.UserManagement.Common.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Optimizer Tutorial 1\bin\Debug\Asm.As.Oib.Common.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Optimizer Tutorial 1\bin\Debug\ASM.AS.OIB.Common.Proxy.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Optimizer Tutorial 1\bin\Debug\ASM.AS.OIB.SIPLACEPro.Optimizer.Contracts.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Optimizer Tutorial 1\bin\Debug\ASM.AS.OIB.SIPLACEPro.Optimizer.Contracts.xml
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Optimizer Tutorial 1\bin\Debug\ASM.AS.OIB.SIPLACEPro.Optimizer.Proxy.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Optimizer Tutorial 1\bin\Debug\ASM.AS.OIB.SIPLACEPro.Optimizer.Proxy.xml
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Optimizer Tutorial 1\bin\Debug\ASM.AS.OIB.WS.Eventing.Contracts.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Optimizer Tutorial 1\bin\Debug\ASM.AS.OIB.WS.Eventing.Contracts.xml
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Optimizer Tutorial 1\bin\Debug\ASM.AS.OIB.UserManagement.Proxy.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Optimizer Tutorial 1\bin\Debug\ASM.AS.OIB.UserManagement.Proxy.xml
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Optimizer Tutorial 1\bin\Debug\ASM.AS.OIB.WS.Common.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Optimizer Tutorial 1\bin\Debug\ASM.AS.OIB.WS.Common.xml
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Optimizer Tutorial 1\bin\Debug\ASM.AS.OIB.UserManagement.Common.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Optimizer Tutorial 1\bin\Debug\ASM.AS.OIB.UserManagement.Common.xml
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Optimizer Tutorial 1\obj\Debug\SIPLACE Pro Optimizer Tutorial 1.csproj.AssemblyReference.cache
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Optimizer Tutorial 1\obj\Debug\OIB.Tutorial.MainForm.resources
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Optimizer Tutorial 1\obj\Debug\OIB.Tutorial.OptimizerParameterDialog.resources
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Optimizer Tutorial 1\obj\Debug\OIB.Tutorial.UserControlClusterparams.resources
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Optimizer Tutorial 1\obj\Debug\OIB.Tutorial.UserControlComponentSetup.resources
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Optimizer Tutorial 1\obj\Debug\OIB.Tutorial.UserControlDebug.resources
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Optimizer Tutorial 1\obj\Debug\OIB.Tutorial.UserControlErrorAsWarning.resources
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Optimizer Tutorial 1\obj\Debug\OIB.Tutorial.UserControlLevel.resources
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Optimizer Tutorial 1\obj\Debug\OIB.Tutorial.UserControlLogging.resources
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Optimizer Tutorial 1\obj\Debug\OIB.Tutorial.UserControlLoggingSpot.resources
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Optimizer Tutorial 1\obj\Debug\OIB.Tutorial.UserControlPerformance.resources
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Optimizer Tutorial 1\obj\Debug\OIB.Tutorial.UserControlRuntime.resources
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Optimizer Tutorial 1\obj\Debug\OIB.Tutorial.Properties.Resources.resources
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Optimizer Tutorial 1\obj\Debug\SIPLACE Pro Optimizer Tutorial 1.csproj.GenerateResource.cache
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Optimizer Tutorial 1\obj\Debug\SIPLACE Pro Optimizer Tutorial 1.csproj.CoreCompileInputs.cache
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Optimizer Tutorial 1\obj\Debug\SIPLACE .CB002EF3.Up2Date
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Optimizer Tutorial 1\obj\Debug\OIB Tutorial.exe
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Optimizer Tutorial 1\obj\Debug\OIB Tutorial.pdb

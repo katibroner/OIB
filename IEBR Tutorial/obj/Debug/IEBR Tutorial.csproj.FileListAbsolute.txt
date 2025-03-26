@@ -1,0 +1,7 @@
+C:\Users\migkbron\source\OIB\Samples\Tutorials\IEBR Tutorial\bin\Debug\EBRExample.exe.config
+C:\Users\migkbron\source\OIB\Samples\Tutorials\IEBR Tutorial\bin\Debug\EBRExample.exe
+C:\Users\migkbron\source\OIB\Samples\Tutorials\IEBR Tutorial\bin\Debug\EBRExample.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\IEBR Tutorial\obj\Debug\IEBR Tutorial.csproj.AssemblyReference.cache
+C:\Users\migkbron\source\OIB\Samples\Tutorials\IEBR Tutorial\obj\Debug\IEBR Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\migkbron\source\OIB\Samples\Tutorials\IEBR Tutorial\obj\Debug\EBRExample.exe
+C:\Users\migkbron\source\OIB\Samples\Tutorials\IEBR Tutorial\obj\Debug\EBRExample.pdb

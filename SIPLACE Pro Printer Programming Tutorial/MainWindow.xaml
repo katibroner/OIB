@@ -1,0 +1,80 @@
+﻿<Window x:Class="Oib.Tutorial.PrinterProgramming.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="OIB Printer Programming Demo" Height="800" Width="1200"
+        Background="AliceBlue">
+    <Window.Resources>
+        <Style x:Key="HeaderLabelStyle" TargetType="Label">
+            <Setter Property="Background" Value="SteelBlue"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="DockPanel.Dock" Value="Top"/>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="1.62*"/>
+            <RowDefinition Height="5"/>
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <StackPanel>
+            <UniformGrid Rows="1" Height="30">
+                <UniformGrid.Resources>
+                    <Style TargetType="Button" BasedOn="{StaticResource {x:Type Button}}">
+                        <Setter Property="Margin" Value="2"/>
+                    </Style>
+                </UniformGrid.Resources>
+                <Button x:Name="BtnInitialize" Content="1.) Initialize" Click="BtnInitialize_OnClick"/>
+                <Button x:Name="BtnCreatePrinterBoard" IsEnabled="False" Content="2.) Create PrinterBoard" Click="BtnCreatePrinterBoard_OnClick"/>
+                <Button x:Name="BtnCreateTopSide" IsEnabled="False" Content="3.) Setup PrinterBoardSide" Click="BtnCreateTopSide_OnClick"/>
+                <Button x:Name="BtnCreateTopSideProgram" IsEnabled="False" Content="4.) Setup PrinterProgram" Click="BtnCreateTopSideProgram_OnClick"/>
+                <Button x:Name="BtnCreateRecipe" IsEnabled="False" Content="5.) Create Recipe" Click="BtnCreateRecipe_OnClick"/>
+            </UniformGrid>
+        </StackPanel>
+
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="4"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <DockPanel>
+                <Label Content="Boards" Style="{StaticResource HeaderLabelStyle}"/>
+                <ListBox x:Name="LbBoards" SelectionChanged="LbBoards_OnSelectionChanged" BorderThickness="0">
+                    <ListBox.ContextMenu>
+                        <ContextMenu>
+                            <MenuItem Header="Reload" Click="LbBoardsReload_OnClick"/>
+                        </ContextMenu>
+                    </ListBox.ContextMenu>
+                </ListBox>
+            </DockPanel>
+            <GridSplitter Grid.Column="1" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" ResizeDirection="Columns" ResizeBehavior="PreviousAndNext"/>
+            <DockPanel Grid.Column="2">
+                <Label Content="Printer Boards" Style="{StaticResource HeaderLabelStyle}"/>
+                <ListBox x:Name="LbPrinterBoards" SelectionChanged="LbPrinterBoards_OnSelectionChanged" BorderThickness="0">
+                    <ListBox.ContextMenu>
+                        <ContextMenu>
+                            <MenuItem Header="Reload" Click="LbPrinterBoardsReload_OnClick"/>
+                        </ContextMenu>
+                    </ListBox.ContextMenu>
+                </ListBox>
+            </DockPanel>
+        </Grid>
+
+        <GridSplitter Grid.Row="2" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" ResizeDirection="Rows" ResizeBehavior="PreviousAndNext"/>
+
+        <DockPanel Grid.Row="3">
+            <Label Content="Output" Style="{StaticResource HeaderLabelStyle}"/>
+            <TextBox x:Name="TbOutput"  Background="#fafeff" Foreground="#333"
+                     IsReadOnly="True" AcceptsReturn="True" TextWrapping="Wrap" 
+                     VerticalScrollBarVisibility="Auto">
+                <TextBox.ContextMenu>
+                    <ContextMenu>
+                        <MenuItem Header="Clear" Click="TbOutputClear_OnClick"/>
+                    </ContextMenu>
+                </TextBox.ContextMenu>
+            </TextBox>
+
+        </DockPanel>
+    </Grid>
+</Window>

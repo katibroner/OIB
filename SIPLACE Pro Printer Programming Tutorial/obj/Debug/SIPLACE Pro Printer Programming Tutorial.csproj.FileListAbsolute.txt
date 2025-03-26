@@ -1,0 +1,30 @@
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Printer Programming Tutorial\bin\Debug\OIB SIPLACE Pro Printer Programming Tutorial.exe.config
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Printer Programming Tutorial\bin\Debug\OIB SIPLACE Pro Printer Programming Tutorial.exe
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Printer Programming Tutorial\bin\Debug\OIB SIPLACE Pro Printer Programming Tutorial.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Printer Programming Tutorial\bin\Debug\ASM.AS.OIB.SIPLACEPro.Proxy.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Printer Programming Tutorial\bin\Debug\ASM.AS.OIB.Common.Proxy.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Printer Programming Tutorial\bin\Debug\ASM.AS.OIB.Common.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Printer Programming Tutorial\bin\Debug\ASM.AS.OIB.SIPLACEPro.Contracts.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Printer Programming Tutorial\bin\Debug\ASM.AS.OIB.UserManagement.Proxy.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Printer Programming Tutorial\bin\Debug\ASM.AS.OIB.UserManagement.Common.dll
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Printer Programming Tutorial\bin\Debug\ASM.AS.OIB.SIPLACEPro.Proxy.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Printer Programming Tutorial\bin\Debug\ASM.AS.OIB.SIPLACEPro.Proxy.xml
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Printer Programming Tutorial\bin\Debug\ASM.AS.OIB.Common.Proxy.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Printer Programming Tutorial\bin\Debug\ASM.AS.OIB.Common.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Printer Programming Tutorial\bin\Debug\ASM.AS.OIB.SIPLACEPro.Contracts.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Printer Programming Tutorial\bin\Debug\ASM.AS.OIB.UserManagement.Proxy.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Printer Programming Tutorial\bin\Debug\ASM.AS.OIB.UserManagement.Proxy.xml
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Printer Programming Tutorial\bin\Debug\ASM.AS.OIB.UserManagement.Common.pdb
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Printer Programming Tutorial\bin\Debug\ASM.AS.OIB.UserManagement.Common.xml
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Printer Programming Tutorial\obj\Debug\SIPLACE Pro Printer Programming Tutorial.csproj.AssemblyReference.cache
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Printer Programming Tutorial\obj\Debug\MainWindow.baml
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Printer Programming Tutorial\obj\Debug\MainWindow.g.cs
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Printer Programming Tutorial\obj\Debug\App.g.cs
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Printer Programming Tutorial\obj\Debug\OIB SIPLACE Pro Printer Programming Tutorial_MarkupCompile.cache
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Printer Programming Tutorial\obj\Debug\OIB SIPLACE Pro Printer Programming Tutorial.g.resources
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Printer Programming Tutorial\obj\Debug\Oib.Tutorial.PrinterProgramming.Properties.Resources.resources
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Printer Programming Tutorial\obj\Debug\SIPLACE Pro Printer Programming Tutorial.csproj.GenerateResource.cache
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Printer Programming Tutorial\obj\Debug\SIPLACE Pro Printer Programming Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Printer Programming Tutorial\obj\Debug\SIPLACE .7FD2ADD3.Up2Date
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Printer Programming Tutorial\obj\Debug\OIB SIPLACE Pro Printer Programming Tutorial.exe
+C:\Users\migkbron\source\OIB\Samples\Tutorials\SIPLACE Pro Printer Programming Tutorial\obj\Debug\OIB SIPLACE Pro Printer Programming Tutorial.pdb
